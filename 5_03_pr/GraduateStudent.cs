@@ -6,7 +6,8 @@ public class GraduateStudent : UndergraduateStudent
     public override void PerformDuties()
     {
         base.PerformDuties();
+        string info = $"Thesis research update by {Name}, ID: {MemberId}";
         ActionLog.Add("Thesis research update");
-        Console.WriteLine("Thesis research update");
+        Console.WriteLine(info);
     }
 }
