@@ -7,6 +7,7 @@ public class UndergraduateStudent : UniversityMember
     public override void PerformDuties()
     {
         base.PerformDuties();
+        ActionLog.Add("Lab work completed");
         Console.WriteLine("Lab work completed");
     }
 }

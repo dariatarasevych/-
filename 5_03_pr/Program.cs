@@ -13,8 +13,8 @@ class Program
         Console.WriteLine("Chek:");
         registry.ExecuteAllDuties();
         
-        Console.WriteLine("Statistic");
-        registry.GetMemberStatistics();
+        Console.WriteLine("Statistic:");
+        Console.WriteLine(registry.GetMemberStatistics());
 
     }
 }

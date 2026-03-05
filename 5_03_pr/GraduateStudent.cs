@@ -6,6 +6,7 @@ public class GraduateStudent : UndergraduateStudent
     public override void PerformDuties()
     {
         base.PerformDuties();
+        ActionLog.Add("Thesis research update");
         Console.WriteLine("Thesis research update");
     }
 }

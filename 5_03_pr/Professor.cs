@@ -7,6 +7,7 @@ public class Professor : UniversityMember
     public override void PerformDuties()
     {
         base.PerformDuties();
+        ActionLog.Add("Lecture delivered");
         Console.WriteLine("Lecture delivered");
     }
 
