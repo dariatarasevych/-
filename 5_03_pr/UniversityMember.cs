@@ -13,6 +13,7 @@ public class UniversityMember
     public string MemberId { get;  }
 
     protected List<string> ActionLog = new List<string>();
+    protected bool Reach5Actions { get; set; }
 
     public UniversityMember(string name, string memberId)
     {
@@ -22,6 +23,7 @@ public class UniversityMember
 
     public virtual void PerformDuties()
     {
-        
+        Reach5Actions = true;
+        throw new Exception("You have already reached a daily limit of 5 actions");
     }
 }
