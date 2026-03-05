@@ -3,7 +3,7 @@ namespace _5_03_pr;
 public class UniversityMember
 {
     private string _name;
-
+    
     public string Name
     {
         get => _name;
@@ -17,7 +17,7 @@ public class UniversityMember
 
     public UniversityMember(string name, string memberId)
     {
-        _name = name;
+        Name = name;
         MemberId = memberId;
     }
 
