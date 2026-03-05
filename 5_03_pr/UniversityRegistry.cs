@@ -14,11 +14,14 @@ public class UniversityRegistry
         }
     }
 
-    public string GetMemberStatistics()
+    public int GetMemberStatistics()
     {
+        int total = 0;
         foreach (var member in _members)
         {
-            
+            total += member.ActionCounter;
         }
+
+        return total;
     }
 }

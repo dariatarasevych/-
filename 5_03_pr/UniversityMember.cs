@@ -13,6 +13,8 @@ public class UniversityMember
     public string MemberId { get;  }
 
     protected List<string> ActionLog = new List<string>();
+
+    public int ActionCounter => ActionLog.Count;
     protected bool Reach5Actions { get; set; }
 
     public UniversityMember(string name, string memberId)
