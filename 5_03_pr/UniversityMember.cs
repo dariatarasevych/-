@@ -15,7 +15,6 @@ public class UniversityMember
     protected List<string> ActionLog = new List<string>();
 
     public int ActionCounter => ActionLog.Count;
-    protected bool Reach5Actions { get; set; }
 
     public UniversityMember(string name, string memberId)
     {
@@ -25,7 +24,9 @@ public class UniversityMember
 
     public virtual void PerformDuties()
     {
-        Reach5Actions = true;
-        throw new Exception("You have already reached a daily limit of 5 actions");
+        if (ActionCounter == 5)
+        {
+            throw new Exception("You have already reached a daily limit of 5 actions");
+        }
     }
 }

@@ -1,0 +1,15 @@
+/Users/daratarasevic/RiderProjects/5_03_pr/5_03_pr/bin/Debug/net10.0/5_03_pr
+/Users/daratarasevic/RiderProjects/5_03_pr/5_03_pr/bin/Debug/net10.0/5_03_pr.deps.json
+/Users/daratarasevic/RiderProjects/5_03_pr/5_03_pr/bin/Debug/net10.0/5_03_pr.runtimeconfig.json
+/Users/daratarasevic/RiderProjects/5_03_pr/5_03_pr/bin/Debug/net10.0/5_03_pr.dll
+/Users/daratarasevic/RiderProjects/5_03_pr/5_03_pr/bin/Debug/net10.0/5_03_pr.pdb
+/Users/daratarasevic/RiderProjects/5_03_pr/5_03_pr/obj/Debug/net10.0/5_03_pr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daratarasevic/RiderProjects/5_03_pr/5_03_pr/obj/Debug/net10.0/5_03_pr.AssemblyInfoInputs.cache
+/Users/daratarasevic/RiderProjects/5_03_pr/5_03_pr/obj/Debug/net10.0/5_03_pr.AssemblyInfo.cs
+/Users/daratarasevic/RiderProjects/5_03_pr/5_03_pr/obj/Debug/net10.0/5_03_pr.csproj.CoreCompileInputs.cache
+/Users/daratarasevic/RiderProjects/5_03_pr/5_03_pr/obj/Debug/net10.0/5_03_pr.sourcelink.json
+/Users/daratarasevic/RiderProjects/5_03_pr/5_03_pr/obj/Debug/net10.0/5_03_pr.dll
+/Users/daratarasevic/RiderProjects/5_03_pr/5_03_pr/obj/Debug/net10.0/refint/5_03_pr.dll
+/Users/daratarasevic/RiderProjects/5_03_pr/5_03_pr/obj/Debug/net10.0/5_03_pr.pdb
+/Users/daratarasevic/RiderProjects/5_03_pr/5_03_pr/obj/Debug/net10.0/5_03_pr.genruntimeconfig.cache
+/Users/daratarasevic/RiderProjects/5_03_pr/5_03_pr/obj/Debug/net10.0/ref/5_03_pr.dll
