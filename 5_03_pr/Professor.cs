@@ -9,4 +9,9 @@ public class Professor : UniversityMember
         base.PerformDuties();
         Console.WriteLine("Lecture delivered");
     }
+
+    public string ConductResearch(string topic)
+    {
+        return topic;
+    }
 }
